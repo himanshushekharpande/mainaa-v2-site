@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>नदियाँ on Mainaa</title><link>https://www.mainaa.com/hi/post/rivers/</link><description>[i18n] recent [i18n] in नदियाँ [i18n] on Mainaa</description><generator>Hugo 0.135.0</generator><language>hi-IN</language><managingEditor>Author Name</managingEditor><webMaster>Author Name</webMaster><lastBuildDate>Wed, 03 Sep 2025 09:42:14 +0000</lastBuildDate><atom:link href="https://www.mainaa.com/hi/post/rivers/index.xml" rel="self" type="application/rss+xml"/><item><title>कोसी-गंडक दोआब में पुनरावृत्त बाढ़ के पीछे के जलविज्ञानिक तत्व</title><link>https://www.mainaa.com/hi/post/rivers/kosi-gandak-doab/</link><pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate><author>Author Name</author><guid>https://www.mainaa.com/hi/post/rivers/kosi-gandak-doab/</guid><description>&lt;p>This section demonstrates a list view layout.
+The post listing style can be modified by adjusting the sitemap changeFreq parameter to values like &amp;ldquo;always&amp;rdquo;, &amp;ldquo;hourly&amp;rdquo;, &amp;ldquo;daily&amp;rdquo;, or &amp;ldquo;weekly&amp;rdquo;.
+This section has been set up with the following configuration:&lt;/p>
+&lt;pre>&lt;code>---
+title: &amp;quot;Post&amp;quot;
+translationKey: post
+sitemap:
+ changeFreq: &amp;quot;always&amp;quot;
+---
+&lt;/code>&lt;/pre></description><enclosure url="/images/Kosi-aerial.jpg" length="0" type="image/jpeg"/></item></channel></rss>
